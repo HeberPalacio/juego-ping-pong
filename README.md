@@ -8,7 +8,9 @@ Este es un juego clásico de Ping Pong desarrollado con JavaScript y la librerí
 
 ## 📸 Captura del juego
 
-![Captura del juego](preview.png) <!-- Puedes reemplazar esto con una imagen real del juego si la subes al repo -->
+![Captura del Juego (1)](https://github.com/user-attachments/assets/9dd99cee-3f14-4f21-af46-5dcba6313c31)
+![Captura del Juego (2)](https://github.com/user-attachments/assets/1d31f7d4-1b0d-482d-8a7b-ff67a9fbb687)
+![Captura del Juego (3)](https://github.com/user-attachments/assets/18d65d09-b457-4575-9593-b0c6a2cddc04)
 
 ## 🎮 ¿Cómo jugar?
 
